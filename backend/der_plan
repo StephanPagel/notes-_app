@@ -1,0 +1,10 @@
+// *** PLAN ***
+
+// ROUTES:
+//     GET notes/all => alle Notes anzeigen
+//     GET notes/detail => eine Note anzeigen durch ID
+//     POST notes/add => neue Note anlegen
+//     PUT notes/edit => bestehende Note bearbeiten durch ID
+//     DELETE notes/delete => bestehende Note löschen durch ID
+
+
